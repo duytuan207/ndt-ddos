@@ -45,7 +45,7 @@
 * Telegram: @FDc0d3
 
 # Donation
-* New[BTC]Wallet: ```32FGCnt4uwkkByWuH8V4qyCSfynm1iVsmB```
+* New[MOMO]Wallet: ```0972260366```
 
 
 
